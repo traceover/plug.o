@@ -1,11 +1,11 @@
 # plug.o
-Simple example that shows how to link static and dynamic libraries with gcc
+Simple example that shows how to link static and dynamic libraries with GCC.
 
 # Quick Start
 
 `plug.o` uses the [nobuild](https://github.com/tsoding/nobuild) build system,
-which requires only a C compiler to build your project.
-Even though we are using GCC which is only available on linux so we aren't platform-independent anyways.
+which requires only a C compiler to build your C project.
+Even though we are using GCC which is only available on Linux so we aren't platform-independent.
 
 ```console
 cc -o nobuild nobuild.c
