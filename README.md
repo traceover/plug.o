@@ -13,3 +13,5 @@ Check out `nobuild.c` to understand what it does and then run the build system t
 cc -o nobuild nobuild.c
 ./nobuild
 ```
+
+You should now have 2 executables: `main_static` and `main_dynamic`.
