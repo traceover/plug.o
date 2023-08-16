@@ -1,0 +1,9 @@
+# Program output
+*.o
+*.so
+main_dynamic
+main_static
+
+# Build system
+nobuild
+nobuild.old
